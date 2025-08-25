@@ -1,0 +1,10 @@
+{
+    "owners": [],
+    "guilds": [],
+    "global_sync": false,
+    "logging": {
+        "enabled": true,
+        "overwrite": true,
+        "level": "debug"
+    }
+}
