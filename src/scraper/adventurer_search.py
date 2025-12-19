@@ -46,6 +46,7 @@ class AdventurerSearch(NameSearch):
     "icn_character29": "character29.png", # Archer
     "icn_character30": "character30.png", # Woosa
     "icn_character31": "character31.png", # Witch
+    "icn_character32": "character32.png", # Seraph
     "icn_character33": "character33.png", # Dosa
     "icn_character34": "character34.png"  # Deadeye
   }
