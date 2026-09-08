@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> As of August 2026, and following several months of Pearl Abyss crusading against what I would assume is web scraping—including frequent CAPTCHA verifications even for logged-in accounts—this Discord bot has become largely ineffective at doing its job. The repository has been archived but will remain public.
+
 <div align="center">
   <br>
   <img height="180" src="assets/logo/logo.svg" alt="logo">
